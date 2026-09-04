@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
 |  |
