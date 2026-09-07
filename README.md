@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -148,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
