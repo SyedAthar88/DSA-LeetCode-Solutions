@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SyedAthar88/DSA-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
