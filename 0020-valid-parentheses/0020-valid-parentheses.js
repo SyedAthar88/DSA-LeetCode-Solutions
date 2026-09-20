@@ -3,44 +3,23 @@
  * @return {boolean}
  */
 var isValid = function (s) {
-    let stack = []
-    let n = s.length
-    
-    // Early return for odd length
-    if (s.length % 2 !== 0) {
-        return false;
-    }
-    
-    // Loop through each character
+    let stack = [];
+    let n = s.length;
+    // our valid string must contain equal characters otherwise its a valid one 
+    if (s.length % 2 !== 0) return false;
     for (let i = 0; i < n; i++) {
-        const char = s[i]
-        
-        // If it's an opening bracket, push to stack
-        if (char === '(' || char === '[' || char === '{') {
+        let char = s[i];
+        if (char == '(' || char == '{' || char == '[') {
             stack.push(char);
-        }
-        else {
-            // If stack is empty, we have a closing bracket without an opening one
-            if (stack.length === 0) {
-                return false;
-            }
-
-            // Pop the last opening bracket
+        } else {
+            // before checking closing tags we'll check if stack has members or not
+            if (stack.length === 0) return false;
             const lastOpen = stack.pop();
-
-            // Check if the closing bracket matches the opening one
-            if (char === ')' && lastOpen !== '(') {
-                return false;
-            }
-            if (char === '}' && lastOpen !== '{') {
-                return false;
-            }
-            if (char === ']' && lastOpen !== '[') {
-                return false;
-            }
+            if (char === ')' && lastOpen != '(') return false;
+            if (char === '}' && lastOpen !== '{') return false;
+            if (char === ']' && lastOpen !== '[') return false;
         }
     }
-    
-    // After processing all characters, stack should be empty
-    return stack.length === 0;
+    //at the end all the chars should match and return true for valid
+    return stack.length === 0; //boolean function
 }
