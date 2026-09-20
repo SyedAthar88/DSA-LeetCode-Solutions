@@ -1,6 +1,5 @@
 var StockSpanner = function() {
-    // Stack stores pairs of [price, span]
-    // Each element in stack = [price, span]
+    // Stack to store [price, span] pairs
     this.stack = [];
 };
 
@@ -9,20 +8,17 @@ var StockSpanner = function() {
  * @return {number}
  */
 StockSpanner.prototype.next = function(price) {
-    // Start with span = 1 (today)
     let span = 1;
     
-    // While stack is not empty AND current price >= top price
-    // We pop and add their spans to current span
+    // Pop while top price <= current price
     while (this.stack.length > 0 && this.stack[this.stack.length - 1][0] <= price) {
-        // Add the span of the popped element
-        span += this.stack.pop()[1];
+        span += this.stack[this.stack.length - 1][1];  // Add popped span
+        this.stack.pop();
     }
     
-    // Push current [price, span] to stack
+    // Push current price and its span
     this.stack.push([price, span]);
     
-    // Return the span for today
     return span;
 };
 
